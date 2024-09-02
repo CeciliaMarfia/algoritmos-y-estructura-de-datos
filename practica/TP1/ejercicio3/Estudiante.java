@@ -59,7 +59,7 @@ public class Estudiante {
 	
 	public String tusDatos() {
 	    String aux = "";
-	    aux = "* Profesor/a: " + this.getApellido() + " " + this.getNombre() + "\n" +
+	    aux = "* Alumno/a: " + this.getApellido() + " " + this.getNombre() + "\n" +
 	          "- Comisión: " + this.getComision() + "\n" +
 	          "- Email: " + this.getEmail() + "\n" +
 	          "- Dirección: " + this.getDireccion();
