@@ -5,9 +5,9 @@ Material de estudio y resolución de los trabajos prácticos de Algoritmos y Est
 ## Estructura
 
 - `teoria/`: material de las clases teóricas.
-- `practica/TP1` a `TP5/`: enunciados y resoluciones: listas, árboles binarios y generales, análisis de algoritmos y grafos.
-- `practica/ejercitacionTeorica/`: ejercitación de análisis de algoritmos, árboles, heap y grafos.
-- `practica/srcAyED/`: proyecto de Eclipse con el código de las prácticas.
+- `practica/tp1` a `tp5/`: enunciados y resoluciones: listas, árboles binarios y generales, análisis de algoritmos y grafos.
+- `practica/ejercitacion-teorica/`: ejercitación de análisis de algoritmos, árboles, heap y grafos.
+- `practica/src-ayed/`: proyecto de Eclipse con el código de las prácticas.
 - `libroyrecursos/`: libro de la cátedra y sinopsis de estructuras.
 
 ## Temas
